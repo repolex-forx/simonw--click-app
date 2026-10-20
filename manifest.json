@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "click-app",
+  "versions": [
+    {
+      "commit": "5e571600f0498c534180ae1a5271bfcb48355551",
+      "parsed_at": "2026-10-20T10:12:39.150507+00:00",
+      "filetree": "filetree/5e571600f0498c534180ae1a5271bfcb48355551.nq.gz",
+      "blobs": [
+        "blob/fab44ea721f056055f94baa00f2251f658e1e185.nq.gz",
+        "blob/e22ac4141b5b8de3445f9265af36b56e13aa8b2f.nq.gz",
+        "blob/aa1083bd0613601b8920c6225677bd85e7b312f2.nq.gz",
+        "blob/d87ae37f0168b571f19fc53381bf509569c63a2f.nq.gz",
+        "blob/4c45cac65e57e2c00a1bbc453bc5e3e3c2ac6bec.nq.gz",
+        "blob/53605b7a5ec51bc95dca4fb43fdb350bf9362435.nq.gz",
+        "blob/e2139a6bc893b3de0638ec8eefd683d13d95410d.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/410de3d276e11953643ecdb23365e09dca0c4797.nq.gz",
+        "blob/98dcca0c2836ae53d67260be8a5431b855e461bb.nq.gz",
+        "blob/dff15e177668d0af058193d4b32d0b480a74452e.nq.gz",
+        "blob/cc5aeba6be6b59e1c7ef2b7cb9ac5aa028e5afe6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b58bd4644f749b219bc585ee8586edac7b9f165d.nq.gz",
+        "blob/47f6a6f2b9c3cf8e4fc5533238884c326d8dfc1e.nq.gz",
+        "blob/6090908934c2a028d46f4f9277734f25a85e08af.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
